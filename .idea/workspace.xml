@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026fa24d-4885-4feb-8bed-50339b2ba4f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BSTIterator173/BinarySearchTreeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveLinkedListElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BSTIterator173/BinarySearchTreeIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="525">
+              <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveLinkedListElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+              <folding>
+                <element signature="class#ListNode#0" />
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/main/java/stack/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/MaxDistanceInBinaryStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/BSTIterator173/BinarySearchTreeIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RemoveLinkedListElements.java" />
       </list>
     </option>
   </component>
@@ -127,7 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569547669815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569630468914" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
@@ -250,7 +269,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16759777" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.16759777" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
@@ -496,8 +515,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BSTIterator173/BinarySearchTreeIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="525">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveLinkedListElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="class#ListNode#0" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
